@@ -1,3 +1,4 @@
 #!bin/bash
-cd /var/www/
-source "./.venv/bin/activate
+cd /var/www/Virstka
+source "./.venv/bin/activate"
+python ./server.py
