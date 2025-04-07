@@ -1,0 +1,37 @@
+h1{
+    color: rgb(199, 21, 133);
+    text-align: left;
+    font-style: italic;
+}
+.Main-info{
+    color: rgb(186, 85, 211);
+    font-size: 32px;
+    text-align: center;
+}
+.inf{
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 10px;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+}
+.photo{
+    margin-left: 10px;
+}
+ .about-us{
+     color: darkcyan;
+     font-size: 15px;
+     font-family: Arial, sans-serif;
+     text-align: left;
+ }
+.container-fluid {
+    background-color: darksalmon;
+}
+.navbar{
+    position: fixed;
+}
